@@ -1,5 +1,5 @@
 # Encryptix
-<h1> Dataset<h2>
+<h1> Dataset</h2>
 [text](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
 <br>
 Describe the dataset used for training the models. Include details such as:
@@ -12,13 +12,19 @@ Description of the features (columns)
 <br>
 Any preprocessing steps applied (cleaning, feature engineering, etc.)
 <br>
-<h2>Technologies Used<h2>
+<h2>Technologies Used</h2>
 List the main libraries, tools, and languages used in the project. For example:
-
+<br>
 Python
+<br>
 Scikit-learn
+<br>
 XGBoost
+<br>
 Pandas
+<br>
 NumPy
+<br>
 Jupyter Notebook (optional)
+<br>
 
