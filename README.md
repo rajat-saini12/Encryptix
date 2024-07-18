@@ -11,3 +11,14 @@ Number of features and observations
 Description of the features (columns)
 <br>
 Any preprocessing steps applied (cleaning, feature engineering, etc.)
+<br>
+<h2>Technologies Used<h2>
+List the main libraries, tools, and languages used in the project. For example:
+
+Python
+Scikit-learn
+XGBoost
+Pandas
+NumPy
+Jupyter Notebook (optional)
+
